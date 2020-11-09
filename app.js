@@ -157,6 +157,8 @@ function intern() {
     });
 };
 
+manager();
+
 // HINT: each employee type (manager, engineer, or intern) has slightly different
 // information; write your code to ask different questions via inquirer depending on
 // employee type.
